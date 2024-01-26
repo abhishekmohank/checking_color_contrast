@@ -1,15 +1,15 @@
-# 🎨 Color Contrast Checker ♿
+# 🎨 Color Contrast Checker 
 
 I've created a color contrast checker using React and TypeScript. The purpose of it was to understand how contrast ratios are calculated and to learn more about color luminance, which measures color brightness. I followed the [Venngage accessibility guidelines](https://venngage.com/blog/accessible) while building this project, and I got inspiration from the UI at [coolors.co](https://coolors.co/).The app is not responsive. I mainly focused on the functionalities since I already have plenty of projects that are responsive.
 
-## 📦 Technologies
+## 🧑‍💻 Technologies
 
 - `Vite`
 - `React.js`
 - `TypeScript`
 - `CSS`
 
-## 💭 The Idea
+## 💡 The Idea
 
 The main idea behind this project was my desire to gain a deeper understanding of how contrast ratios work by exploring luminance, which quantifies color brightness.
 
